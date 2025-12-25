@@ -13,6 +13,6 @@ public class IfElse {
             System.err.println("Positive Number");
         } else {
             System.err.println("Non-positive Number");
-        }
-    }
-}
+        }//else
+    }//main
+}//class

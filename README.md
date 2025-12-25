@@ -12,6 +12,8 @@ Programs are organized into different folders based on concepts for better under
   - HelloWorld.java
   - IfElse.java
   - Loops.java
+  - Switch.java
+  - Scanner.java(User Input)
 
 - _oops/_
 

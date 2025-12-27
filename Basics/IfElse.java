@@ -1,6 +1,6 @@
 /*
-Program Name : IfElse
-Description  : Demonstrates the use of if-else conditional statements in Java.
+Program Name : If-Else
+Description  : Demonstrate the use of if-else conditional statements in Java.
 Author       : Muneebur Rahman
  */
 

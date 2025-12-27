@@ -1,6 +1,6 @@
 /*
-Program Name : HelloWorld
-Description  : This program demonstrates the use of basic primitive data types in java.
+Program Name : Data Types
+Description  : Demonstrate the use of basic primitive data types in java.
 Author       : Muneebur Rahman
 */
 

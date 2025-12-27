@@ -6,9 +6,10 @@ Author       : Muneebur Rahman
 public class ForLoop {
     public static void main(String[] args) {
         int number = 10;
-        for (int i = 1; i < number; i++) {
+        System.out.println("Even Numbers fom 1 to 10 : ");
+        for (int i = 1; i <= number; i++) {
             if (i % 2 == 0) {
-                System.out.println("Even Numbers : " + i);
+                System.out.println(i);
             } // if
         } // for
     }// main

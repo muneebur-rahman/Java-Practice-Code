@@ -1,5 +1,5 @@
 /*
-Program Name : If-Else
+Program Name : If Example
 Description  : Demonstrate the use of if conditional statements in Java.
 Author       : Muneebur Rahman
  */

@@ -1,5 +1,5 @@
 /*
-Program Name : While Loop to print numbers.
+Program Name : Do While Loop to print numbers.
 Description  : Demonstrate the use of do While Loop in java.
 Author       : Muneebur Rahman
  */

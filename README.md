@@ -9,11 +9,12 @@ Programs are organized into different folders based on concepts for better under
 
 - _basics/_
 
-  - HelloWorld.java
-  - IfElse.java
-  - Loops.java
-  - Switch.java
-  - Scanner.java(User Input)
+  - HelloWorld
+  - Data-Types
+  - Conditional statement
+  - Loops
+  - Scanner
+  - Project
 
 - _oops/_
 

@@ -11,7 +11,7 @@ Programs are organized into different folders based on concepts for better under
 
   - HelloWorld
   - Data-Types
-  - Conditional statement
+  - Conditional Statement
   - Loops
   - Scanner
   - Project

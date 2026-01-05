@@ -18,18 +18,18 @@ Programs are organized into different folders based on concepts for better under
 
 - _oops/_
 
-  - InheritanceDemo.java
-  - PolymorphismDemo.java
-  - InterfaceDemo.java
+  - InheritanceDemo
+  - PolymorphismDemo
+  - InterfaceDemo
 
 - _arrays/_
 
-  - ArraySum.java
-  - TwoDArray.java
+  - ArraySum
+  - TwoDArray
 
 - _strings/_
-  - ReverseString.java
-  - Palindrome.java
+  - ReverseString
+  - Palindrome
 
 ## Topics Covered
 

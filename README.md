@@ -14,7 +14,9 @@ Programs are organized into different folders based on concepts for better under
   - Conditional Statement
   - Loops
   - Scanner
-  - Project
+  - _Project/_
+    - HotelManagementSystem
+    - StudentResultManagement
 
 - _oops/_
 

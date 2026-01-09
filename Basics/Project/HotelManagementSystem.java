@@ -135,7 +135,7 @@ public class HotelManagementSystem {
                 System.out.println("------------------------------------------------------------");
                 System.out.println("\t Total \t\t\t | \t "+totalCount+" \t | "+totalAmount);
                 System.out.println("------------------------------------------------------------");
-                System.out.println("\t We Look Forwar to Serving You Again!!");
+                System.out.println("\t We Look Forwar to Serving You Again!!!");
                 break;
             }
 

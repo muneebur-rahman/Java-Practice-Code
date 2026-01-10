@@ -8,6 +8,7 @@ package Project;
 import java.util.Scanner;
 
 public class StudentResultManagement {
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int i, subject, total_max_marks;
@@ -26,7 +27,7 @@ public class StudentResultManagement {
 
         // System.out.print("Enter Total Max Marks : ");
         // total_max_marks = sc.nextInt();
-        total_max_marks=subject*100;
+        total_max_marks = subject * 100;
         sc.nextLine();
 
         for (i = 0; i < subject; i++) {
@@ -51,6 +52,10 @@ public class StudentResultManagement {
         System.out.println("Total Max Marks \t: " + total_max_marks);
         System.out.println("Total Marks Obtained \t: " + total_marks_obtained);
         System.out.println("Percentage \t\t: " + percentage);
+
+        if (percentage < 35) {
+
+        }
 
         if (isPass) {
 

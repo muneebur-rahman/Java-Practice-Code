@@ -1,3 +1,9 @@
+/*
+Program Name : Pattern first program.
+Description  : Demonstrate the use of do While Loop in java.
+Author       : Muneebur Rahman
+ */
+
 // * 
 // * *
 // * * *

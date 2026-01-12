@@ -1,6 +1,6 @@
 /*
-Program Name : Pattern first program.
-Description  : Demonstrate the use of do While Loop in java.
+Program Name : Right Angle Pattern.
+Description  : Java program to print Right Angle Triangle using loop in java.
 Author       : Muneebur Rahman
  */
 

@@ -15,8 +15,8 @@ public class MyProgram {
         Person p2 = new Person();
         p1.name = "Muneeb";
         p1.age = 19;
-        p2.name = "Rohit";
-        p2.age = 20;
+        p2.name = "Noman";
+        p2.age = 21;
         System.out.println("Name : " + p1.name);
         System.out.println("Age : " + p1.age);
         System.out.println("Name : " + p2.name);

@@ -1,7 +1,10 @@
+/*
+Program Name : Objects and classes Demo.
+Description  : Simple Program demonstrating objects and classes in OOP in java .
+Author       : Muneebur Rahman
+ */
 package OOP;
 
-// public class MyProgram {
-// }
 class Person {
 
     String name;

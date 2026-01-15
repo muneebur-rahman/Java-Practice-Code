@@ -1,4 +1,8 @@
-
+/*
+Program Name : Find Volume of Cube.(Method Example)
+Description  : Simple Program demonstrating Method in OOP in java .
+Author       : Muneebur Rahman
+ */
 package OOP;
 
 //Function Example
@@ -7,6 +11,7 @@ class Cube {
     double height;
     double depth;
 
+    //Constructor
     Cube(double w, double h, double d) {
         System.out.println("Constructing Cube");
         width = w;

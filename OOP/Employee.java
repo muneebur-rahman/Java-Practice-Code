@@ -1,3 +1,8 @@
+/*
+Program Name : Employee (Objects and classes Example).
+Description  : Simple Program demonstrating objects and classes in OOP in java (Using 2  different Classes).
+Author       : Muneebur Rahman
+ */
 package OOP;
 
 class Base {

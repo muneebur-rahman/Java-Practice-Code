@@ -3,25 +3,24 @@ Program Name : Employee (Objects and classes Example).
 Description  : Simple Program demonstrating objects and classes in OOP in java (Using 2  different Classes).
 Author       : Muneebur Rahman
  */
-package OOP;
 
+package OOP;
 class Base {
     int id;
     String name;
-
-    void display(){
-        System.out.println("Employee ID : "+id);
-        System.out.println("Employee Name : "+name);
+    void display() {
+        System.out.println("Employee ID : " + id);
+        System.out.println("Employee Name : " + name);
     }
-    
+
 }
 
-public class Employee{
+public class Employee {
     public static void main(String[] args) {
 
-        Base e=new Base(); //object creation
-        e.id=123;
-        e.name="Muneeb";
+        Base e = new Base(); // object creation
+        e.id = 123;
+        e.name = "Muneebur Rahman";
         e.display();
     }
 }

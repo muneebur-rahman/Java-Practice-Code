@@ -4,7 +4,7 @@ Description  : Simple Program demonstrating Classes and Objects and methods in O
 Author       : Muneebur Rahman
  */
 
-package OOP;
+package OOP.Methods;
 class Base {
     int id;
     String name;

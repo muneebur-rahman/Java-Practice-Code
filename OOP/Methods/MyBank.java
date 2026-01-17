@@ -3,7 +3,7 @@ Program Name : Bank Demo (Constructor Example).
 Description  : Simple Program demonstrating classes and Objects and Constructor in OOP in java .
 Author       : Muneebur Rahman
  */
-package OOP;
+package OOP.Methods;
 
 class MyAccount {
     int accNo;

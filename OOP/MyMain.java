@@ -1,6 +1,6 @@
 /*
 Program Name : Find Volume of Cube.(Method Example)
-Description  : Simple Program demonstrating Method in OOP in java .
+Description  : Simple Program demonstrating classes and objects and Methods in OOP in java .
 Author       : Muneebur Rahman
  */
 package OOP;

@@ -1,6 +1,6 @@
 /*
 Program Name : Employee (Classes and Objects / Method Example).
-Description  : Simple Program demonstrating objects and classes in OOP in java (Using 2  different Classes).
+Description  : Simple Program demonstrating Classes and Objects and methods in OOP in java (Using 2  different Classes).
 Author       : Muneebur Rahman
  */
 

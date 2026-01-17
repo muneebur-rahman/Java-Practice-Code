@@ -1,6 +1,6 @@
 /*
 Program Name : Calculalte Volume (Classes and Objects Example).
-Description  : Simple Program demonstrating objects and classes in OOP in java .
+Description  : Simple Program demonstrating classes and Objects in OOP in java .
 Author       : Muneebur Rahman
  */
 

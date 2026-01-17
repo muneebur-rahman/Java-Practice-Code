@@ -1,10 +1,10 @@
 /*
-Program Name : Calculalte Volume (Objects and classes Example).
+Program Name : Calculalte Volume (Classes and Objects Example).
 Description  : Simple Program demonstrating objects and classes in OOP in java .
 Author       : Muneebur Rahman
  */
 
-package OOP;
+package OOP.ClassesAndObjects;
 
 class Box {
     double width;

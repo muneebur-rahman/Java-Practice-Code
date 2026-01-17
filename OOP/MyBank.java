@@ -1,6 +1,6 @@
 /*
-Program Name : Bank Demo (Objects and classes Example).
-Description  : Simple Program demonstrating objects and classes in OOP in java .
+Program Name : Bank Demo (Constructor Example).
+Description  : Simple Program demonstrating objects and classes and Constructor in OOP in java .
 Author       : Muneebur Rahman
  */
 package OOP;

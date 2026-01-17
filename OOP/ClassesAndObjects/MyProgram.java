@@ -1,9 +1,9 @@
 /*
-Program Name : Objects and classes Demo.
+Program Name : Classes and Object Demo.
 Description  : Simple Program demonstrating objects and classes in OOP in java .
 Author       : Muneebur Rahman
  */
-package OOP;
+package OOP.ClassesAndObjects;
 
 class Person {
 

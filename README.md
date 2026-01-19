@@ -21,6 +21,7 @@ Programs are organized into different folders based on concepts for better under
 - _oops/_
 
   - _ClassesAndObjects/_
+  - _Methods/_
   - InheritanceDemo
   - PolymorphismDemo
   - InterfaceDemo

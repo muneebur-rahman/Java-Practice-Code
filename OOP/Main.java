@@ -1,3 +1,9 @@
+/*
+Program Name : Classes and Objects Example.
+Description  : Simple Program demonstrating classes and Objects in OOP in java .
+Author       : Muneebur Rahman
+ */
+
 package OOP;
 
 class Demo {
@@ -13,7 +19,7 @@ public class Main {
     public static void main(String[] args) {
         Demo D1 = new Demo();
 
-        System.out.println(D1); //print garbage value
+        System.out.println(D1); // print garbage value
 
         System.out.println(D1.display());
     }

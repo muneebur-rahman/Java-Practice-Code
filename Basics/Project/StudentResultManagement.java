@@ -53,13 +53,21 @@ public class StudentResultManagement {
         System.out.println("Total Marks Obtained \t: " + total_marks_obtained);
         System.out.println("Percentage \t\t: " + percentage);
 
-        if (percentage < 35) {
+        // if (percentage < 35) {
 
-        }
+        // }
 
-        if (isPass) {
+        // if (isPass) {
+        //     if(percentage>90 && percentage<=100){
+        //         System.out.println("Grade A+");
+        //     }
+        //     else if(percentage>90 && percentage<=80){
+        //         System.out.println("Grade A");
+        //     }
+        // }else{
+        //     System.out.println("Fail");
+        // }
 
-        }
         sc.close();
     }
 }

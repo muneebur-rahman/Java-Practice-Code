@@ -57,16 +57,16 @@ public class StudentResultManagement {
 
         // }
 
-        // if (isPass) {
-        //     if(percentage>90 && percentage<=100){
-        //         System.out.println("Grade A+");
-        //     }
-        //     else if(percentage>90 && percentage<=80){
-        //         System.out.println("Grade A");
-        //     }
-        // }else{
-        //     System.out.println("Fail");
-        // }
+        if (isPass) {
+            if(percentage>90 && percentage<=100){
+                System.out.println("Grade \t\t\t: A+");
+            }
+            else if(percentage>80 && percentage<=90){
+                System.out.println("Grade \t\t\t: A");
+            }
+        }else{
+            System.out.println("Fail");
+        }
 
         sc.close();
     }

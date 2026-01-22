@@ -68,7 +68,7 @@ public class StudentResultManagement {
                 System.out.println("Grade \t\t\t: B+");
             }
             else if(percentage>60 && percentage<=70){
-                System.out.println("Grade \t\t\t: B+");
+                System.out.println("Grade \t\t\t: B");
             }
         }else{
             System.out.println("Fail");

@@ -3,7 +3,7 @@ package OOP.Inheritance;
 class A{
     int i,j;
     void showij(){
-        System.out.println("i and j:"+i+" "+j);
+        System.out.println("i and j: "+i+" "+j);
     }
 }
 class B extends A{
@@ -12,7 +12,7 @@ class B extends A{
         System.out.println("k: "+k);
     }
     void sum(){
-        System.out.println("i+j+k"+(i+j+k));
+        System.out.println("i+j+k: "+(i+j+k));
     }
 }
 public class SimpleInheritancec {
@@ -32,6 +32,7 @@ public class SimpleInheritancec {
         System.out.println("Contents of sub object (B)");
         b.showij();
         b.showk();
+        System.out.println();
         System.out.println("Sum of i j and k is: ");
         b.sum();
 

@@ -1,3 +1,8 @@
+/*
+Program Name : Simple Inheritance Example.
+Description  : Simple Program demonstrating Single Inhertance in java .
+Author       : Muneebur Rahman
+ */
 package OOP.Inheritance;
 
 class A{

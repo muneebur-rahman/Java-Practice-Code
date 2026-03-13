@@ -15,7 +15,7 @@ class CARRENTAL {
     String CarType;
     float Rent;
     
-    // Method to accept CarId and CarType
+    
     void GetCar() {
         Scanner sc = new Scanner(System.in);
         
@@ -26,10 +26,9 @@ class CARRENTAL {
         sc.nextLine(); 
         CarType = sc.nextLine();
 
-        Rent = GetRent(); // calculate rent
+        Rent = GetRent(); 
     }
 
-    // Method to calculate rent based on car type
     float GetRent() {
         if (CarType.equalsIgnoreCase("Small Car")) {
             return 1000;
@@ -46,7 +45,7 @@ class CARRENTAL {
         }
     }
     
-    // Method to display car details
+  
     void ShowCar() {
         System.out.println("\nCar Details");
         System.out.println("Car ID: " + CarId);

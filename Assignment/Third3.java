@@ -27,7 +27,9 @@ class CARRENTAL {
         CarType = sc.nextLine();
 
         Rent = GetRent(); 
+        sc.close();
     }
+
 
     float GetRent() {
         if (CarType.equalsIgnoreCase("Small Car")) {

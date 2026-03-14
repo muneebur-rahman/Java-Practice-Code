@@ -15,7 +15,7 @@ class Person {
 
 public class First1 {
     public static void main(String[] args) {
-        Person p1 = new Person("Muneeb", 19);
+        Person p1 = new Person("Muneebur Rahman", 19);
         Person p2 = new Person("Noman", 21);
         System.out.println(p1.name);
         System.out.println(p1.age);

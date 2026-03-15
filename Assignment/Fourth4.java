@@ -32,10 +32,10 @@ class Resort{
         System.out.print("Enter Customer Name : ");
         name = sc.next();
 
-        System.out.print("Enter Charges per Day: ");
+        System.out.print("Enter Charges per Day : ");
         charges = sc.nextFloat();
 
-        System.out.print("Enter Number of Days: ");
+        System.out.print("Enter Number of Days : ");
         days = sc.nextInt();
         sc.close();
     }

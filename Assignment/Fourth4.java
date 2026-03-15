@@ -26,10 +26,10 @@ class Resort{
 
     void GetInfo(){
         Scanner sc=new Scanner(System.in);
-        System.out.print("Enter Room Number: ");
+        System.out.print("Enter Room Number : ");
         RNo = sc.nextInt();
 
-        System.out.print("Enter Customer Name: ");
+        System.out.print("Enter Customer Name : ");
         name = sc.next();
 
         System.out.print("Enter Charges per Day: ");

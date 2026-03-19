@@ -1,7 +1,7 @@
+// package Assignment;
 
 import java.util.Scanner;
 
-// package Assignment;
 
 // Define a class employee with the following specification:
 //  Members are: empno of type integer, ename of type String, basic, hr and da
@@ -13,33 +13,46 @@ import java.util.Scanner;
 //  dispdata(): function to display all the data members.
 // import java.lang.reflect.Member;
 
-
-class Employee{
+class Employee {
     int empNo;
     String eName;
-    float basic,hr,da;
+    float basic, hr, da;
+    float netPay;
 
-    float calculate(){
-        return basic+hr+da;
+    float calculate() {
+        return basic + hr + da;
     }
 
-    void haveData(){
-        Scanner sc=new Scanner(System.in);
+    void haveData() {
+        Scanner sc = new Scanner(System.in);
         System.out.println("Enter Employee Number: ");
-        empNo=sc.nextInt();
+        empNo = sc.nextInt();
         System.out.println("Enter Employee Name: ");
-        eName=sc.next();
+        eName = sc.next();
         System.out.println("Enter Employee Basic: ");
-        basic=sc.nextFloat();
+        basic = sc.nextFloat();
         System.out.println("Enter Employee Hr: ");
-        hr=sc.nextFloat();
+        hr = sc.nextFloat();
         System.out.println("Enter Employee Da: ");
-        da=sc.nextFloat();
-        calculate();
+        da = sc.nextFloat();
+        netPay = calculate();
         sc.close();
+    }
+
+    void display() {
+        System.out.println("Employee Number : " + empNo);
+        System.out.println("Employee Name : " + eName);
+        System.out.println("Basci salary : " + basic);
+        System.out.println("HRA : " + hr);
+        System.out.println("DA : " + da);
+        System.out.println("Net Pay : " + netPay);
     }
 }
 
 public class Fifth_5 {
-    
+    public static void main(String[] args) {
+        Employee e1 = new Employee();
+        e1.haveData();
+        e1.display();
+    }
 }

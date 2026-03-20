@@ -42,7 +42,7 @@ class CARRENTAL {
             return 2500;
         } 
         else {
-            System.out.println("Invalid Car Type");
+            System.out.println("Invalid Car Type!!");
             return 0;
         }
     }

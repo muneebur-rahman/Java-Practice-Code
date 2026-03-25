@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-// Define a class Resort with the following description:
+// 4. Define a class Resort with the following description:
 //  Members are: RNo to store Room Number, Name store customer name,
 // Charges to store per day charges, Days to store number of days of stay.
 //  Member functions:

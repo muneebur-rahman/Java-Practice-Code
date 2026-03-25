@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 
-// Define a class employee with the following specification:
+// 5. Define a class employee with the following specification:
 //  Members are: empno of type integer, ename of type String, basic, hr and da
 // are of type float, netpay of type float.
 //  Member functions:
@@ -11,7 +11,6 @@ import java.util.Scanner;
 //  havedata(): function to accept values for empno, ename, basic, hra, da and
 // invoke calculate() to calculate netpay.
 //  dispdata(): function to display all the data members.
-// import java.lang.reflect.Member;
 
 class Employee {
     int empNo;

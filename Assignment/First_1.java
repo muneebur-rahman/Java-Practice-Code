@@ -1,4 +1,4 @@
-package Assignment;
+// package Assignment;
 
 // 1.Create a class called Person with name (String) and age (int) attributes. Implement
 // a constructor to set these attributes upon object creation. Create two Person objects,
@@ -13,7 +13,7 @@ class Person {
     }
 }
 
-public class First1 {
+public class First_1 {
     public static void main(String[] args) {
         Person p1 = new Person("Muneebur Rahman", 19);
         Person p2 = new Person("Noman Raza", 21);

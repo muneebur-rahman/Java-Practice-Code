@@ -1,4 +1,5 @@
 // package Assignment_1;
+
 // 10.Create an interface Bank with method getInterestRate(). Create classes SBI,
 // HDFC, and ICICI that implement the interface and return different interest rates.
 // Write a Java program to display the interest rate of each bank.

@@ -1,3 +1,5 @@
+// package Assignment_1;
+
 // 3. Define a class CARRENTAL with the following details:
 //  Class Members are: CarId of int type, CarType of string type and Rent of
 // float type.

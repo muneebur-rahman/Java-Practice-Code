@@ -1,4 +1,4 @@
-package Assignment_1;
+// package Assignment_1;
 
 // 12. Design a payment processing system.
 // Create an abstract class Payment with an abstract method pay(double amount).

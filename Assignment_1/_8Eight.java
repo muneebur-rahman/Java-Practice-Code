@@ -1,3 +1,5 @@
+// package Assignment_1;
+
 // 8.Define an interface named Filterable with abstract methods
 // like apply_filter(filter_type) and reset_filter().
 // Create two classes, ImageProcessor and DataAnalyzer, that

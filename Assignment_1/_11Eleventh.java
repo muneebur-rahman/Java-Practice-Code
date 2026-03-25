@@ -45,7 +45,7 @@ class Rectangle extends Shape {
 }
 
 // Main class
-public class Eleventh_11 {
+public class _11Eleventh {
     public static void main(String[] args) {
 
         // Circle object

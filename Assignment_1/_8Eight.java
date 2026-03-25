@@ -36,7 +36,7 @@ class DataAnalyzer implements Filterable {
 }
 
 // Main class
-public class Eight_8 {
+public class _8Eight {
     public static void main(String[] args) {
 
         // Using ImageProcessor

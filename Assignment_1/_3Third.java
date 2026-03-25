@@ -57,7 +57,7 @@ class CARRENTAL {
     
    
 }
-public class Third3 {
+public class _3Third {
          public static void main(String[] args) {
         CARRENTAL c = new CARRENTAL();
 

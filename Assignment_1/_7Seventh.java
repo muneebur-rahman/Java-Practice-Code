@@ -46,7 +46,7 @@ class Rectangle extends Shape {
 }
 
 // Main class
-public class Seventh_7 {
+public class _7Seventh {
     public static void main(String[] args) {
 
         // Uncommenting below line will cause compilation error

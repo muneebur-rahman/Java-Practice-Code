@@ -48,7 +48,7 @@ class Employee {
     }
 }
 
-public class Fifth_5 {
+public class _5Fifth {
     public static void main(String[] args) {
         Employee e1 = new Employee();
         e1.haveData();

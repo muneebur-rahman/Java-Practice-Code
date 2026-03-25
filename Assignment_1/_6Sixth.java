@@ -20,7 +20,7 @@ class Rectangle {
     
 }
 
-public class Sixth_6 {
+public class _6Sixth {
     public static void main(String[] args) {
         // Creating two rectangle objects
         Rectangle r1 = new Rectangle(4, 5);

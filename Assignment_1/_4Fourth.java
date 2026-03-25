@@ -51,7 +51,7 @@ class Resort{
     }
 }
 
-public class Fourth4 {
+public class _4Fourth {
     public static void main(String[] args) {
         Resort r = new Resort();
         r.GetInfo();

@@ -23,7 +23,7 @@ class Calculator {
 
     
 }
-public class Ninth_9 {
+public class _9Ninth {
     public static void main(String[] args) {
         Calculator calc = new Calculator();
 

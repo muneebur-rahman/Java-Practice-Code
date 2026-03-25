@@ -28,7 +28,7 @@ class ICICI implements Bank {
 }
 
 // Main class
-public class Tenth_10 {
+public class _10Tenth {
     public static void main(String[] args) {
 
         Bank b1 = new SBI();

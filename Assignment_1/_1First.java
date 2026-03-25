@@ -13,7 +13,7 @@ class Person {
     }
 }
 
-public class First_1 {
+public class _1First {
     public static void main(String[] args) {
         Person p1 = new Person("Muneebur Rahman", 19);
         Person p2 = new Person("Noman Raza", 21);

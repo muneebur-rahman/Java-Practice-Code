@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-class MessageFormatter {
+public class _4Fourth {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -28,15 +28,13 @@ class MessageFormatter {
 
         sc.close();
     }
+
+    // Method to format name properly
+    public static String formatName(String name) {
+        if (name.length() == 0)
+            return name;
+
+        return name.substring(0, 1).toUpperCase() +
+                name.substring(1).toLowerCase();
+    }
 }
-
-// public class _4Fourth {
-//     // Method to format name properly
-//     public static String formatName(String name) {
-//         if (name.length() == 0)
-//             return name;
-
-//         return name.substring(0, 1).toUpperCase() +
-//                 name.substring(1).toLowerCase();
-//     }
-// }

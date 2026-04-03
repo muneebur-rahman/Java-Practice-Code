@@ -16,7 +16,7 @@ public class _4Fourth {
         System.out.print("Enter Last Name: ");
         String lastName = sc.nextLine().trim();
 
-        Convert to proper format (First letter uppercase, rest lowercase)
+        // Convert to proper format (First letter uppercase, rest lowercase)
         firstName = formatName(firstName);
         lastName = formatName(lastName);
 

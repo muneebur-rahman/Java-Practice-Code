@@ -1,4 +1,4 @@
-// Define a class StudentNameComparison.
+// 3. Define a class StudentNameComparison.
 //  Accept two student names.
 //  Compare them using case-sensitive comparison.
 

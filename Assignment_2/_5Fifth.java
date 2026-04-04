@@ -1,4 +1,4 @@
-// Define a class FileExtensionExtractor.
+// 5. Define a class FileExtensionExtractor.
 //  Accept a file name (example: &quot;report.pdf&quot;).
 //  Extract file extension using substring() method.
 //  Display extracted extension.

@@ -1,5 +1,5 @@
 
-// Design a program EmailChecker.
+// 2. Design a program EmailChecker.
 //  Accept an email address from the user.
 //  Check whether the email contains &quot;@gmail.com&quot;.
 //  Display &quot;Valid Gmail Address&quot; or &quot;Invalid Email&quot;.

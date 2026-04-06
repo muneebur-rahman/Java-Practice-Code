@@ -21,3 +21,16 @@ public class _8Eight {
     }
 }
 
+/*
+Comparison between StringBuilder and StringBuffer:
+
+1. StringBuilder:
+   - Not thread-safe (no synchronization).
+   - Faster performance.
+   - Used in single-threaded applications.
+
+2. StringBuffer:
+   - Thread-safe (synchronized).
+   - Slower than StringBuilder.
+   - Used in multi-threaded environments where safety is required.
+*/

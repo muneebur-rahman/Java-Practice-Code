@@ -21,8 +21,8 @@ public class _8Eight {
     }
 }
 
-/*
-Comparison between StringBuilder and StringBuffer:
+// /*
+// Comparison between StringBuilder and StringBuffer:
 
 1. StringBuilder:
    - Not thread-safe (no synchronization).

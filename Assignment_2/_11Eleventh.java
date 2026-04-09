@@ -8,7 +8,7 @@
 // Remaining balance: &lt;balance&gt;&#39; Else: &#39;Insufficient Balance&#39;
 
 
-// import java.util.Scanner;
+import java.util.Scanner;
 
 public class _11Eleventh{
     public static void main(String[] args) {

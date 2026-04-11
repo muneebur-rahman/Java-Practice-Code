@@ -15,7 +15,7 @@ public class _23 {
     // Thread for receiving messages
     static class Receiver extends Thread {
         public void run() {
-            System.out.println("Receiving message");
+            System.out.println("Receiving message...");
         }
     }
 

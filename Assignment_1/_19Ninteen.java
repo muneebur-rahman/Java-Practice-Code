@@ -25,7 +25,7 @@ class Book {
         System.out.println("Title: " + title);
         System.out.println("Author: " + author);
         System.out.println("Price: ₹" + price);
-        System.out.println("----------------------");
+        System.out.println("-------------------");
     }
 }
 

@@ -23,6 +23,6 @@ public class _16Sixteen extends Thread {
 
     public static void main(String[] args) {
        _16Sixteen player = new _16Sixteen();
-        player.start(); 
+        player.start(); // start thread
     }
 }
